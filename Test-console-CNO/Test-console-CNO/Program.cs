@@ -14,7 +14,7 @@ namespace Test_console_CNO
              * NAAM: 
             */
 
-
+            Console.WriteLine("Hello, World!");
         }
     }
 }
