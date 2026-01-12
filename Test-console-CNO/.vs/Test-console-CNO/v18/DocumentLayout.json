@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\groep_asigmnent\\cno-groepswerk-console-2026-achtersterij\\Test-console-CNO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585DB021-476C-4EDF-9A5B-F34B273C9548}|Test-console-CNO\\Test-console-CNO.csproj|c:\\temp\\groep_asigmnent\\cno-groepswerk-console-2026-achtersterij\\test-console-cno\\test-console-cno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585DB021-476C-4EDF-9A5B-F34B273C9548}|Test-console-CNO\\Test-console-CNO.csproj|solutionrelative:test-console-cno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\groep_asigmnent\\cno-groepswerk-console-2026-achtersterij\\Test-console-CNO\\Test-console-CNO\\Program.cs",
+              "RelativeDocumentMoniker": "Test-console-CNO\\Program.cs",
+              "ToolTip": "C:\\Temp\\groep_asigmnent\\cno-groepswerk-console-2026-achtersterij\\Test-console-CNO\\Test-console-CNO\\Program.cs",
+              "RelativeToolTip": "Test-console-CNO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:29:39.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
